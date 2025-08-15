@@ -1,0 +1,17 @@
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\obj\Debug\net9.0\SmartClean.Application.csproj.AssemblyReference.cache
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\obj\Debug\net9.0\SmartClean.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\obj\Debug\net9.0\SmartClean.Application.AssemblyInfoInputs.cache
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\obj\Debug\net9.0\SmartClean.Application.AssemblyInfo.cs
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\obj\Debug\net9.0\SmartClean.Application.csproj.CoreCompileInputs.cache
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\bin\Debug\net9.0\SmartClean.Application.deps.json
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\bin\Debug\net9.0\SmartClean.Application.dll
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\bin\Debug\net9.0\SmartClean.Application.pdb
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\bin\Debug\net9.0\SmartClean.Core.dll
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\bin\Debug\net9.0\SmartClean.Shared.dll
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\bin\Debug\net9.0\SmartClean.Core.pdb
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\bin\Debug\net9.0\SmartClean.Shared.pdb
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\obj\Debug\net9.0\SmartCle.9FF26AFF.Up2Date
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\obj\Debug\net9.0\SmartClean.Application.dll
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\obj\Debug\net9.0\refint\SmartClean.Application.dll
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\obj\Debug\net9.0\SmartClean.Application.pdb
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Application\obj\Debug\net9.0\ref\SmartClean.Application.dll

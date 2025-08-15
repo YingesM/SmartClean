@@ -1,0 +1,15 @@
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\net9.0\SmartClean.Core.csproj.AssemblyReference.cache
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\net9.0\SmartClean.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\net9.0\SmartClean.Core.AssemblyInfoInputs.cache
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\net9.0\SmartClean.Core.AssemblyInfo.cs
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\net9.0\SmartClean.Core.csproj.CoreCompileInputs.cache
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\bin\Debug\net9.0\SmartClean.Core.deps.json
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\bin\Debug\net9.0\SmartClean.Core.dll
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\bin\Debug\net9.0\SmartClean.Core.pdb
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\bin\Debug\net9.0\SmartClean.Shared.dll
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\bin\Debug\net9.0\SmartClean.Shared.pdb
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\net9.0\SmartCle.D75C2879.Up2Date
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\net9.0\SmartClean.Core.dll
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\net9.0\refint\SmartClean.Core.dll
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\net9.0\SmartClean.Core.pdb
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\net9.0\ref\SmartClean.Core.dll

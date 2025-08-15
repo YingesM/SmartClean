@@ -1,0 +1,325 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Infrastructure\\SmartClean.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Application\\SmartClean.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Application\\SmartClean.Application.csproj",
+        "projectName": "SmartClean.Application",
+        "projectPath": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Application\\SmartClean.Application.csproj",
+        "packagesPath": "C:\\Users\\Kingm\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kingm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Core\\SmartClean.Core.csproj": {
+                "projectPath": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Core\\SmartClean.Core.csproj"
+              },
+              "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Shared\\SmartClean.Shared.csproj": {
+                "projectPath": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Shared\\SmartClean.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Core\\SmartClean.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Core\\SmartClean.Core.csproj",
+        "projectName": "SmartClean.Core",
+        "projectPath": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Core\\SmartClean.Core.csproj",
+        "packagesPath": "C:\\Users\\Kingm\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kingm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Shared\\SmartClean.Shared.csproj": {
+                "projectPath": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Shared\\SmartClean.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Infrastructure\\SmartClean.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Infrastructure\\SmartClean.Infrastructure.csproj",
+        "projectName": "SmartClean.Infrastructure",
+        "projectPath": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Infrastructure\\SmartClean.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Kingm\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kingm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Application\\SmartClean.Application.csproj": {
+                "projectPath": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Application\\SmartClean.Application.csproj"
+              },
+              "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Core\\SmartClean.Core.csproj": {
+                "projectPath": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Core\\SmartClean.Core.csproj"
+              },
+              "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Shared\\SmartClean.Shared.csproj": {
+                "projectPath": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Shared\\SmartClean.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Shared\\SmartClean.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Shared\\SmartClean.Shared.csproj",
+        "projectName": "SmartClean.Shared",
+        "projectPath": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Shared\\SmartClean.Shared.csproj",
+        "packagesPath": "C:\\Users\\Kingm\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkRelated\\Projects\\Automation\\CleanArchitecture\\SmartClean.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kingm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
