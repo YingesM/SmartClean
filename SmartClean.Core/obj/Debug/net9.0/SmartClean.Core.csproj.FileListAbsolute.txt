@@ -13,3 +13,4 @@ D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\n
 D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\net9.0\refint\SmartClean.Core.dll
 D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\net9.0\SmartClean.Core.pdb
 D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\net9.0\ref\SmartClean.Core.dll
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Core\obj\Debug\net9.0\SmartClean.Core.sourcelink.json

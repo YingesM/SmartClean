@@ -1,4 +1,5 @@
 using SmartClean.Application.DTOs;
+using SmartClean.Core.Entities;
 
 namespace SmartClean.Application.Services;
 

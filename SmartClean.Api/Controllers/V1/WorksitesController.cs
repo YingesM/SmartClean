@@ -1,6 +1,7 @@
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using SmartClean.Api.Controllers.Base;
+using SmartClean.Application.DTOs;
 using SmartClean.Application.Features.Worksites.Commands.CreateWorksite;
 using SmartClean.Application.Features.Worksites.Commands.DeleteWorksite;
 using SmartClean.Application.Features.Worksites.Commands.UpdateWorksite;
@@ -20,7 +21,7 @@ public class WorksitesController : BaseApiController
     }
 
     [HttpGet]
-    public async Task<ActionResult<List<WorksiteDto>>> GetAll()
+    public async Task<ActionResult<IEnumerable<WorksiteDto>>> GetAll()
     {
         var query = new GetAllWorksitesQuery();
         var result = await _mediator.Send(query);

@@ -1,3 +1,5 @@
+using SmartClean.Core.Entities;
+
 namespace SmartClean.Application.DTOs;
 
 public class EquipmentDto
@@ -49,13 +51,4 @@ public class UpdateEquipmentDto
     public string Location { get; set; } = string.Empty;
     public DateTime? LastMaintenanceDate { get; set; }
     public DateTime? NextMaintenanceDate { get; set; }
-}
-
-public enum EquipmentStatus
-{
-    Available,
-    InUse,
-    Maintenance,
-    OutOfService,
-    Retired
 }

@@ -17,3 +17,4 @@ D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Infrastructure\o
 D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Infrastructure\obj\Debug\net9.0\refint\SmartClean.Infrastructure.dll
 D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Infrastructure\obj\Debug\net9.0\SmartClean.Infrastructure.pdb
 D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Infrastructure\obj\Debug\net9.0\ref\SmartClean.Infrastructure.dll
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Infrastructure\obj\Debug\net9.0\SmartClean.Infrastructure.sourcelink.json

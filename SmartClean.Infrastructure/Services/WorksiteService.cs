@@ -1,6 +1,7 @@
 using AutoMapper;
 using SmartClean.Application.DTOs;
 using SmartClean.Application.Services;
+using SmartClean.Core.Entities;
 using SmartClean.Core.Interfaces;
 
 namespace SmartClean.Infrastructure.Services;

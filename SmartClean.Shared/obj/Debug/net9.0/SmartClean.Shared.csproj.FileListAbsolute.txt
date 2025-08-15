@@ -9,3 +9,4 @@ D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Shared\obj\Debug
 D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Shared\obj\Debug\net9.0\refint\SmartClean.Shared.dll
 D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Shared\obj\Debug\net9.0\SmartClean.Shared.pdb
 D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Shared\obj\Debug\net9.0\ref\SmartClean.Shared.dll
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Shared\obj\Debug\net9.0\SmartClean.Shared.sourcelink.json

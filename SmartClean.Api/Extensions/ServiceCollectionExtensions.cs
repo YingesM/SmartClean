@@ -1,3 +1,5 @@
+using MediatR;
+using FluentValidation;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Versioning;
 using SmartClean.Api.Configuration;

@@ -193,3 +193,6 @@ D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Api\obj\Debug\ne
 D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Api\obj\Debug\net9.0\SmartClean.Api.pdb
 D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Api\obj\Debug\net9.0\SmartClean.Api.genruntimeconfig.cache
 D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Api\obj\Debug\net9.0\ref\SmartClean.Api.dll
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Api\obj\Debug\net9.0\SmartClean.Api.sourcelink.json
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\WorkRelated\Projects\Automation\CleanArchitecture\SmartClean.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
